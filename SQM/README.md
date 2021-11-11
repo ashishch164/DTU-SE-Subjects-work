@@ -1,1 +1,1 @@
-SQM has no lab. So this folder contains our project report and class test
+SQM has no lab. So this folder contains our project report.
