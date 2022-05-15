@@ -1,1 +1,1 @@
-This folder contains project report and class assignments.
+This folder contains MTE project report and class assignments.
